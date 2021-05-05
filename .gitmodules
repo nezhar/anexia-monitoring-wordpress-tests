@@ -1,0 +1,3 @@
+[submodule "wp-plugins/anexia-monitoring-wordpress"]
+	path = wp-plugins/anexia-monitoring-wordpress
+	url = https://github.com/anexia-it/anexia-monitoring-wordpress
